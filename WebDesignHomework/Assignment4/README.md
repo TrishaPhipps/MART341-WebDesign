@@ -23,7 +23,15 @@ fixed vocabulary of HTML.
 Four elements every HTML page needs:
 - DOCTYPE
 - HTML
-- <head></head>
-- <body></body>
+- `<head></head>`
+- `<body></body>`
+
+index.html serves as the is the homepage of the webiste and is placed in the root directory of the server's directory structure. 
+
+Naming practices for clean and organized code:
+- names should be descriptive and unambiguous
+- use meaningful distinctions
+- should be pronouncable and searchable
+- 
 
 
